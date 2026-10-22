@@ -1,4 +1,5 @@
-# CommerceIQ 360
+# CommerceIQ
+
 ## Enterprise AI Analytics & KPI Intelligence Platform
 
 **End-to-End Data Analytics | Advanced SQL | Data Engineering | Business Intelligence | AI-Powered Analytics**
