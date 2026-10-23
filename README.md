@@ -957,5 +957,6 @@ This project is an independent educational and portfolio implementation and is n
 
 **CommerceIQ 360 — Transforming E-Commerce Data into Reliable Business Intelligence.**
 
-<img width="1168" height="660" alt="image" src="https://github.com/user-attachments/assets/ca651695-8743-4b01-9f4d-feee0c186c47" />
+<img width="830" height="592" alt="image" src="https://github.com/user-attachments/assets/8944bfed-7d21-49bd-ab7c-81b42b61cf38" />
+
 
