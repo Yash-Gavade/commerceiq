@@ -959,4 +959,29 @@ This project is an independent educational and portfolio implementation and is n
 
 <img width="830" height="592" alt="image" src="https://github.com/user-attachments/assets/8944bfed-7d21-49bd-ab7c-81b42b61cf38" />
 
+Completed Components
+1. PostgreSQL Data Warehouse
+- Established the commerceiq360 PostgreSQL database.
+- Organized data into raw, staging, and analytics schemas.
+- Implemented analytical fact tables, customer dimensions, and SQL reporting views.
+- Developed business metrics for sales, customers, products, sellers, and delivery performance.
+2. Advanced SQL Analytics
+- Monthly Gross Merchandise Value (GMV)
+- Month-over-Month (MoM) sales growth
+- Three-month rolling GMV average
+- Customer RFM segmentation
+- Customer cohort retention
+- Seller and product performance analysis
+- Data validation and KPI reconciliation
+3. Power BI — Executive Sales Overview
+
+Developed an interactive dashboard featuring:
+- Delivered GMV KPI
+- Delivered Orders KPI
+- Average Order Value KPI
+- Latest Monthly Growth KPI
+- Monthly GMV versus three-month rolling average
+- Monthly GMV growth visualization
+- Detailed monthly sales performance table
+
 
