@@ -957,31 +957,109 @@ This project is an independent educational and portfolio implementation and is n
 
 **CommerceIQ 360 — Transforming E-Commerce Data into Reliable Business Intelligence.**
 
-<img width="830" height="592" alt="image" src="https://github.com/user-attachments/assets/8944bfed-7d21-49bd-ab7c-81b42b61cf38" />
+## 📊 Power BI — Business Intelligence Dashboards
 
-Completed Components
-1. PostgreSQL Data Warehouse
-- Established the commerceiq360 PostgreSQL database.
-- Organized data into raw, staging, and analytics schemas.
-- Implemented analytical fact tables, customer dimensions, and SQL reporting views.
-- Developed business metrics for sales, customers, products, sellers, and delivery performance.
-2. Advanced SQL Analytics
-- Monthly Gross Merchandise Value (GMV)
-- Month-over-Month (MoM) sales growth
-- Three-month rolling GMV average
-- Customer RFM segmentation
-- Customer cohort retention
-- Seller and product performance analysis
-- Data validation and KPI reconciliation
-3. Power BI — Executive Sales Overview
+Developed four interactive Power BI dashboards for **CommerceIQ 360**, transforming PostgreSQL analytical data into actionable business insights using Power BI, DAX measures, and interactive visualizations.
 
-Developed an interactive dashboard featuring:
-- Delivered GMV KPI
-- Delivered Orders KPI
-- Average Order Value KPI
-- Latest Monthly Growth KPI
-- Monthly GMV versus three-month rolling average
-- Monthly GMV growth visualization
-- Detailed monthly sales performance table
+### 1. Executive Sales Overview
 
+Designed an executive-level dashboard to monitor overall sales performance, revenue growth, and key business metrics.
 
+**Key Features:**
+- Delivered Gross Merchandise Value (GMV)
+- Total Delivered Orders
+- Average Order Value (AOV)
+- Latest Month-over-Month (MoM) Growth
+- Monthly GMV vs. Three-Month Rolling Average
+- Monthly GMV Growth (%) Analysis
+- Detailed Monthly Sales Performance Table
+
+**Dashboard Preview:**
+
+![Executive Sales Overview](https://github.com/user-attachments/assets/8944bfed-7d21-49bd-ab7c-81b42b61cf38)
+
+---
+
+### 2. Customer Intelligence Dashboard
+
+Developed a comprehensive customer analytics dashboard to understand purchasing behavior, customer segmentation, spending patterns, and customer retention.
+
+**Key Features:**
+- Total Customers
+- Average Customer Spend
+- Customer Cohort Retention Rate
+- Repeat Purchase Rate
+- Average Order Value (AOV)
+- Customer RFM Segmentation
+- Average Customer Spend by Segment
+- Customer Purchase Frequency Analysis
+- Customer Distribution by State
+- Monthly Customer Cohort Retention Heatmap
+
+**Dashboard Preview:**
+
+![Customer Intelligence Dashboard](https://github.com/user-attachments/assets/41e8f794-4441-4708-b40d-aee82ce12787)
+
+---
+
+### 3. Sales & Revenue Analytics Dashboard
+
+Built an interactive sales analytics dashboard to evaluate revenue trends, order performance, product contributions, and seller-level sales performance.
+
+**Key Features:**
+- Total Gross Merchandise Value (GMV)
+- Total Orders
+- Average Order Value (AOV)
+- Latest Month-over-Month Growth
+- Total Items Sold
+- Average Items per Order
+- Monthly GMV Trend Analysis
+- Monthly GMV vs. Total Orders Comparison
+- Revenue Contribution by Product
+- Revenue Contribution by Seller
+- Monthly Revenue Growth (%)
+- Interactive Year and Order Status Filters
+
+**Dashboard Preview:**
+
+![Sales and Revenue Analytics Dashboard](https://github.com/user-attachments/assets/947f5d0e-27e1-45e7-abdc-937b66e06b60)
+
+---
+
+### 4. Product & Seller Performance Dashboard
+
+Developed a product and seller analytics dashboard to evaluate product-level sales, seller contributions, and overall marketplace performance.
+
+**Key Features:**
+- Product-Level Revenue Analysis
+- Seller-Level Revenue Contribution
+- Top-Performing Products
+- Top-Performing Sellers
+- Product Sales Distribution
+- Seller Performance Comparison
+- GMV Contribution Analysis
+- Product and Seller Ranking Analysis
+
+**Dashboard Preview:**
+
+![Product and Seller Performance Dashboard](https://github.com/user-attachments/assets/02db9789-6a49-429c-bb36-432088d5bf8d")
+
+---
+
+### 🛠️ Technologies Used
+
+- **Power BI Desktop** — Interactive dashboards and business reporting
+- **DAX** — Business KPI calculations and dynamic measures
+- **Power Query** — Data preparation and transformation
+- **PostgreSQL** — Analytical data source
+- **SQL** — Data modeling, aggregation, and analytical queries
+- **Data Visualization** — KPI cards, line charts, bar charts, tables, and cohort retention heatmaps
+
+### ✅ Power BI Development Status
+
+| Dashboard | Status |
+|-----------|--------|
+| Executive Sales Overview | ✅ Completed |
+| Customer Intelligence | ✅ Completed |
+| Sales & Revenue Analytics | ✅ Completed |
+| Product & Seller Performance | ✅ Completed |
