@@ -2,6 +2,7 @@
 
 ## Enterprise AI Analytics & KPI Intelligence Platform
 
+
 **End-to-End Data Analytics | Advanced SQL | Data Engineering | Business Intelligence | AI-Powered Analytics**
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
@@ -1054,6 +1055,7 @@ Developed a product and seller analytics dashboard to evaluate product-level sal
 - **PostgreSQL** — Analytical data source
 - **SQL** — Data modeling, aggregation, and analytical queries
 - **Data Visualization** — KPI cards, line charts, bar charts, tables, and cohort retention heatmaps
+
 
 ### ✅ Power BI Development Status
 
