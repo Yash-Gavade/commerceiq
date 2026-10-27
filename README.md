@@ -133,8 +133,11 @@ These metrics will not be presented as verified business results without appropr
 | Database IDE | DBeaver | Database development |
 | Data Processing | Pandas, NumPy | Data inspection and manipulation |
 | Transformation | dbt (planned) | Tested analytical transformations |
-| Visualization | Power BI (planned) | Interactive business dashboards |
-| Web Application | Streamlit (planned) | AI analytics user interface |
+
+| Visualization | Power BI Desktop | Six completed interactive dashboards |
+| BI Calculations | DAX | KPI measures, percentages, time-based reporting |
+| Data Modeling | Power BI Data Model | Relationships and shared Date dimension |
+
 | Backend | FastAPI (planned) | Analytics APIs |
 | AI Integration | LLM API (planned) | Natural-language analytics |
 | Containerization | Docker (planned) | Reproducible environments |
@@ -853,16 +856,15 @@ Review the output and investigate any failed checks before relying on analytical
 
 | Stage | Deliverables | Status |
 |---|---|---|
-| Stage 1 | Business case, KPI design, data profiling, PostgreSQL modeling | In progress |
-| Stage 2 | Advanced SQL, RFM, cohort analysis, optimization | Planned |
-| Stage 3 | Python ETL/ELT and dbt transformations | Planned |
-| Stage 4 | Power BI executive and analytical dashboards | Planned |
-| Stage 5 | AI analytics assistant with controlled SQL | Planned |
-| Stage 6 | Backend APIs, application integration | Planned |
+| Stage 1 | Business case, PostgreSQL schemas, data profiling | Implemented |
+| Stage 2 | Advanced SQL, RFM, cohort analysis | Implemented |
+| Stage 3 | Python ETL/ELT and dbt transformations | Partially implemented / planned |
+| Stage 4 | Six Power BI dashboards and DAX KPIs | Completed |
+| Stage 5 | AI-powered KPI Intelligence Assistant | Next phase |
+| Stage 6 | Backend APIs and application integration | Planned |
 | Stage 7 | Automated testing, Docker, CI/CD | Planned |
-| Stage 8 | Deployment, documentation, final portfolio demo | Planned |
+| Stage 8 | Deployment, documentation, portfolio demo | In progress |
 
----
 
 ## 17. Skills Demonstrated
 
