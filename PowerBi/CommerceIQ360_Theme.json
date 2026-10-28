@@ -1,0 +1,39 @@
+
+{
+  "name": "CommerceIQ 360 Enterprise",
+  "dataColors": [
+    "#2563EB",
+    "#16A085",
+    "#E58A43",
+    "#7C3AED",
+    "#0EA5E9",
+    "#DC5555",
+    "#64748B",
+    "#14B8A6"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#15263D",
+  "tableAccent": "#2563EB",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI",
+      "fontSize": 14,
+      "color": "#15263D"
+    },
+    "header": {
+      "fontFace": "Segoe UI",
+      "fontSize": 12,
+      "color": "#15263D"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#64748B"
+    },
+    "callout": {
+      "fontFace": "Segoe UI",
+      "fontSize": 28,
+      "color": "#15263D"
+    }
+  }
+}

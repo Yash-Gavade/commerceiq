@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg[binary]
+python-dotenv
+pydantic-settings
+streamlit
+pytest
+httpx
+openai
