@@ -1071,7 +1071,7 @@ The **CommerceIQ 360** project includes six interactive Power BI dashboards desi
 | 4 | Product & Seller Performance | ✅ Completed |
 | 5 | Logistics & Delivery Analytics | ✅ Completed |
 | 6 | Customer Retention & Cohort Analysis | ✅ Completed |
-
+ 
 ### ✅ Development Progress
 
 **Power BI Dashboards: 6/6 Completed (100%)**
@@ -1086,6 +1086,7 @@ The **CommerceIQ 360** project includes six interactive Power BI dashboards desi
 - **Customer Retention & Cohort Analysis:** Customer retention patterns, repeat purchases, and cohort-based analysis.
 
 ### 🚀 Next Development Phase
+
 
 **Stage 7 — AI-Powered KPI Intelligence Assistant**
 
